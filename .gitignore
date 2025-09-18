@@ -99,6 +99,6 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
 settings.json
-Settings.json
 .vscode/settings.json
 /Assets/Image*
+# ProjectA/Library/*
